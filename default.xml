@@ -466,6 +466,7 @@
   <project path="device/asus/flo" name="CyanogenMod/android_device_asus_flo" revision="cm-11.0" />
   <project path="device/asus/deb" name="CyanogenMod/android_device_asus_deb" revision="cm-11.0" />
   <project path="kernel/google/msm" name="CyanogenMod/android_kernel_google_msm" revision="cm-11.0" />
+  <project path="vendor/asus" name="TheMuppets/proprietary_vendor_asus" revision="cm-11.0" />
   
   <!-- Use Koush's open Superuser -->
   <project name="ChameleonOS/Superuser" path="external/koush/Superuser" />
