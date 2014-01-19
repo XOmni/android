@@ -463,7 +463,10 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.1_r1" />
   <project path="vendor/cos" name="ChameleonOS/android_vendor_cos" />
   <project path="vendor/qcom/opensource/v8" name="ChameleonOS/android_vendor_qcom_opensource_v8" />
-
+  <project path="device/asus/flo" name="Cyanogenmod/android_device_asus_flo" revision="cm-11.0" />
+  <project path="device/asus/deb" name="Cyanogenmod/android_device_asus_deb" revision="cm-11.0" />
+  <project path="kernel/google/msm" name="Cyanogenmod/android_kernel_google_msm" revision="cm-11.0" />
+  
   <!-- Use Koush's open Superuser -->
   <project name="ChameleonOS/Superuser" path="external/koush/Superuser" />
   <project name="koush/Widgets" path="external/koush/Widgets" remote="github" revision="master" />
